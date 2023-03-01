@@ -1,0 +1,10 @@
+* {
+    font-family: system-ui, "Segoe UI","Helvetica Neue", sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 10px 10px 25px grey;
+    padding: 1rem;
+    margin: 1rem 0 1rem
+}
