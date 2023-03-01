@@ -1,3 +1,3 @@
 # recipes-stuff
 ## Description
-Project to test web development skills 
+Project to test web development skills
