@@ -4,7 +4,12 @@
 
 .card {
     border-radius: 10px;
-    box-shadow: 10px 10px 25px grey;
+    box-shadow: 0px 5px 10px grey, 0px 6px 12px grey;
     padding: 1rem;
     margin: 1rem 0 1rem
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
 }
