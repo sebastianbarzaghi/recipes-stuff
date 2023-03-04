@@ -1,6 +1,11 @@
+html {
+    box-sizing: border-box; /*To use the alternative box model for all of your elements*/
+}
+
 * {
     font-family: system-ui, "Segoe UI","Helvetica Neue", sans-serif;
     border: 1px solid red;
+    box-sizing: inherit; /*set all other elements to inherit box sizing value*/
 }
 
 section {
